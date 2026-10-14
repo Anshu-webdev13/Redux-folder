@@ -10,14 +10,9 @@ html, body{
 h1{
   font-size: 50px;
 }
-button{
+button, input{
   padding:10px 20px;
   margin:5px;
   border-radius:5px;
 
-}
-div{
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
